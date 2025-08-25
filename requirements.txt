@@ -5,3 +5,8 @@ matplotlib
 yfinance
 scikit-learn
 plotly
+seaborn
+statsmodels
+
+
+
