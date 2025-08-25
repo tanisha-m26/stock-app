@@ -18,3 +18,12 @@ pip install -r requirements.txt
 conda activate stockapp
 streamlit run app.py
 >>>>>>> 08ef5a6 (Initial commit)
+
+
+
+# Stock Prediction Dashboard
+
+This is a Streamlit app for real-time stock analysis and predictions.
+
+## 🔗 Live Deployment
+You can access the live app here: [Stock Prediction Dashboard](https://share.streamlit.io/tanisha-m26/stock-app/main/app.py)
